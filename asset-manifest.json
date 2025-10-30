@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tushar-portfolio/static/css/main.6ed68a04.css",
+    "main.js": "/tushar-portfolio/static/js/main.27b0bed4.js",
+    "static/js/453.a89180e5.chunk.js": "/tushar-portfolio/static/js/453.a89180e5.chunk.js",
+    "index.html": "/tushar-portfolio/index.html",
+    "main.6ed68a04.css.map": "/tushar-portfolio/static/css/main.6ed68a04.css.map",
+    "main.27b0bed4.js.map": "/tushar-portfolio/static/js/main.27b0bed4.js.map",
+    "453.a89180e5.chunk.js.map": "/tushar-portfolio/static/js/453.a89180e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ed68a04.css",
+    "static/js/main.27b0bed4.js"
+  ]
+}
